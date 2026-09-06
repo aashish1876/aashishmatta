@@ -155,15 +155,11 @@ status:      Available for interesting problems
 
 <div align="center">
 
-## `05.` ACTIVITY
+## `05.` TROPHY CASE
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aashish1876&custom_title=Contribution%20Timeline&bg_color=0A0E27&color=00FFC2&line=00FFC2&point=C9D1D9&area=true&hide_border=true"/>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/aashish1876/aashish1876/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aashish1876&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
@@ -173,7 +169,23 @@ status:      Available for interesting problems
 
 <div align="center">
 
-## `06.` CONNECT
+## `06.` ACTIVITY
+
+<br>
+
+<img src="https://raw.githubusercontent.com/aashish1876/aashish1876/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+<sub>⚠️ This renders once the Snake Action below is set up in your repo — see setup notes at the bottom of this file.</sub>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## `07.` CONNECT
 
 <br>
 
