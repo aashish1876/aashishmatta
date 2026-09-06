@@ -1,157 +1,63 @@
 <div align="center">
 
-# ⚡ AASHISH
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:111827,100:020617&text=AASHISH&fontColor=FFFFFF&fontSize=62&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20Builder%20%7C%20Creative%20Technologist&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-### `Frontend Developer` · `AI Builder` · `Creative Technologist`
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+interfaces+that+feel+alive.;Exploring+AI+%2B+Web+Development.;Turning+ideas+into+real+products.;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Designing+digital+experiences.;Building+with+code+%2B+AI.;Turning+ideas+into+products.;Always+building+something+new." />
 
-<br/>
+<br><br>
 
 <a href="https://github.com/aashish1876">
-<img src="https://img.shields.io/github/followers/aashish1876?label=Followers&style=for-the-badge&logo=github&color=181717" />
+<img src="https://img.shields.io/badge/GITHUB-0B0F19?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/aashish1876?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-8-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/aashish1876?tab=stars">
-<img src="https://img.shields.io/github/stars/aashish1876?style=for-the-badge&logo=github&color=FFD700" />
+<a href="https://www.instagram.com/imyour._aash/">
+<img src="https://img.shields.io/badge/INSTAGRAM-0B0F19?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
----
-
-## 🧠 `whoami`
-
-```js
-const aashish = {
-    name: "Aashish",
-    location: "India 🇮🇳",
-    role: "Frontend Developer",
-    focus: [
-        "Web Development",
-        "AI-powered Applications",
-        "UI/UX",
-        "Creative Interfaces"
-    ],
-    currentlyLearning: [
-        "Advanced React",
-        "TypeScript",
-        "AI Integration",
-        "System Design"
-    ],
-    mindset: "Build → Break → Learn → Improve → Repeat 🚀"
-};
-```
-
-> I’m a developer who enjoys turning ideas into **interactive, useful and visually polished experiences**.
->
-> Currently exploring the intersection of **frontend engineering, AI and modern web technologies**.
+<br>
 
 ---
 
-# 🚀 Featured Projects
+<div align="center">
+
+## `01 — ABOUT`
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
-### 🧠 ELITE EVALUATOR
+# Hey, I'm Aashish 👋
 
-AI-powered code review and developer evaluation platform.
+I'm a **Frontend Developer from India** who enjoys creating interfaces that are not only functional — but **feel good to use**.
 
-**Built with:**
+My interests sit at the intersection of:
 
-`React 19` `TypeScript` `Tailwind CSS`  
-`Gemini API` `Recharts` `Framer Motion`
+**Frontend Engineering × AI × UI/UX × Creative Development**
 
-Features include AI code analysis, developer profiling, scoring, interview simulation, voice feedback and visual insights.
-
-<a href="https://github.com/aashish1876/ELITE-EVALUATOR">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
+I'm currently focused on building modern web applications, experimenting with AI-powered products, and continuously improving my engineering skills.
 
 </td>
 
-<td width="50%">
+<td width="45%">
 
-### 🌐 PORTFOLIO
-
-Modern personal portfolio built to showcase projects, skills and experience.
-
-**Built with:**
-
-`React` `TypeScript` `GSAP`  
-`Framer Motion` `Vite`
-
-Designed around modern animations and interactive UI.
-
-<a href="https://github.com/aashish1876/portfolio">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌦️ WEATHER FORECAST
-
-A weather-focused web application built with TypeScript.
-
-`TypeScript` `Web APIs` `Frontend`
-
-<a href="https://github.com/aashish1876/weatherforcast">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🗺️ TRIP PLANNER
-
-A JavaScript-based travel planning project designed around interactive trip experiences.
-
-`JavaScript` `HTML` `CSS`
-
-<a href="https://github.com/aashish1876/tripplaner">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔎 LIL-CAMP
-
-**Lost Item Logger System for College Campus**
-
-Python-based lost-and-found management system developed for a college campus environment.
-
-`Python`
-
-<a href="https://github.com/aashish1876/Lost-Item-Logger-System-for-College-Campus-LIL-CAMP-">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🎨 WEBDESGINER
-
-A frontend/web design project focused on building modern web experiences.
-
-`TypeScript` `HTML` `CSS`
-
-<a href="https://github.com/aashish1876/webdesginer">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
+```text
+╭────────────────────────────╮
+│                            │
+│   AASHISH                  │
+│                            │
+│   Frontend Developer       │
+│   AI Builder               │
+│   Creative Technologist    │
+│                            │
+│   INDIA 🇮🇳                │
+│                            │
+╰────────────────────────────╯
+```
 
 </td>
 </tr>
@@ -159,98 +65,192 @@ A frontend/web design project focused on building modern web experiences.
 
 ---
 
-# ⚙️ Tech Arsenal
+<div align="center">
 
-### 💻 Languages
+## `02 — SELECTED WORK`
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
-</p>
+### Things I've built.
 
-### 🌐 Frontend
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,flutter" />
-</p>
+<br>
 
-### 🧩 Backend & Database
+### 🧠 ELITE EVALUATOR
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,cassandra,oracle" />
-</p>
+> **AI-powered developer evaluation platform**
 
-### ☁️ Tools & Platforms
+A modern platform designed to analyze developers and code using AI.
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,arduino,gcp,unity,vscode" />
-</p>
+**Core stack**
+
+`React 19` · `TypeScript` · `Tailwind CSS` · `Gemini API` · `Recharts` · `Framer Motion`
+
+**Highlights**
+
+- AI-powered code analysis
+- Developer profiling
+- Interview simulation
+- Voice feedback
+- Performance scoring
+- Interactive data visualization
+- Modern animated UI
+
+<div align="left">
+
+<a href="https://github.com/aashish1876/ELITE-EVALUATOR">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-67E8F9?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
+
+</div>
+
+<br>
 
 ---
 
-# 📊 GitHub Analytics
+### 🌐 PERSONAL PORTFOLIO
+
+> **A digital space for my work, experiments & projects**
+
+Built with a focus on modern interactions, animation and visual storytelling.
+
+`React` · `TypeScript` · `GSAP` · `Framer Motion` · `Vite`
+
+<a href="https://github.com/aashish1876/portfolio">
+<img src="https://img.shields.io/badge/VIEW_PORTFOLIO_PROJECT-67E8F9?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
+
+<br><br>
+
+---
+
+### 🌦️ WEATHER FORECAST
+
+> **Weather information presented through a clean web interface.**
+
+`TypeScript` · `HTML` · `CSS`
+
+<a href="https://github.com/aashish1876/weatherforcast">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-334155?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+---
+
+### 🗺️ TRIP PLANNER
+
+> **An interactive travel planning experience.**
+
+`JavaScript` · `HTML` · `CSS`
+
+<a href="https://github.com/aashish1876/tripplaner">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-334155?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+---
+
+### 🔎 LIL-CAMP
+
+> **Lost Item Logger System for College Campus**
+
+A Python-based system designed to organize lost-and-found items within a college campus.
+
+`Python`
+
+<a href="https://github.com/aashish1876/Lost-Item-Logger-System-for-College-Campus-LIL-CAMP-">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-334155?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aashish1876&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" />
+### `MORE PROJECTS →`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish1876&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
+<a href="https://github.com/aashish1876?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+</a>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=aashish1876&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+## `03 — TECHNOLOGY`
+
+### My current toolkit.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,python,java,cpp,c,nodejs,mongodb,cassandra,git,github,linux,gcp,flutter,arduino,unity&perline=10&theme=dark"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aashish1876/aashish1876/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+## `04 — GITHUB`
+
+### A glimpse into the activity.
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=aashish1876&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&icon_color=67E8F9&text_color=CBD5E1&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish1876&layout=compact&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1&langs_count=8" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=aashish1876&hide_border=true&background=020617&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+<div align="center">
+
+## `05 — CONTRIBUTIONS`
+
+<br>
+
+<img src="https://raw.githubusercontent.com/aashish1876/aashish1876/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
+---
 
 <div align="center">
+
+## `06 — CONNECT`
+
+<br>
 
 <a href="https://github.com/aashish1876">
-<img src="https://img.shields.io/badge/GitHub-Aashish1876-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.instagram.com/imyour._aash/">
-<img src="https://img.shields.io/badge/Instagram-imyour._aash-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </a>
 
-</div>
+<br><br>
 
-<br/>
+### Open to ideas, collaborations & interesting problems.
 
-<div align="center">
+<br>
 
-### 💬 Let's build something interesting.
+<img src="https://komarev.com/ghpvc/?username=aashish1876&label=PROFILE%20VIEWS&color=67E8F9&style=flat-square"/>
 
-`Code` · `Create` · `Experiment` · `Ship`
+<br><br>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=aashish1876&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+<sub>Designed & built with curiosity. ⚡</sub>
 
 </div>
 
----
+<br>
 
-<div align="center">
-
-### ⚡ "The best way to predict the future is to build it."
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:111827,100:0F172A&section=footer" width="100%"/>
