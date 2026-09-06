@@ -209,31 +209,27 @@ status:      Available for interesting problems
 
 ## `07.` FUEL THE CODE ☕
 
-<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="220">
-
 <br>
 
 **If something here helped you out, consider buying me a coffee — every bit keeps the commits coming.**
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="260">
-
-<img src="assets/phonepe-qr.png" width="200" alt="Scan to pay via PhonePe"/>
+<a href="upi://pay?pa=aashishff2008-1@oksbi&pn=Aashish&cu=INR&tn=Buy%20me%20a%20coffee">
+<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="150"/>
+</a>
 
 <br>
 
-`Scan with any UPI app`
-
-</td>
-</tr>
-</table>
+<a href="upi://pay?pa=aashishff2008-1@oksbi&pn=Aashish&cu=INR&tn=Buy%20me%20a%20coffee">
+<img src="https://img.shields.io/badge/☕_TAP_TO_PAY-0A0E27?style=for-the-badge&logoColor=00FFC2"/>
+</a>
 
 <br>
 
-<sub>UPI · PhonePe · GPay · Paytm all work with the same QR</sub>
+<sub>Opens your UPI app (PhonePe / GPay / Paytm) directly to <code>aashishff2008-1@oksbi</code></sub>
+<br>
+<sub>⚠️ Works on mobile only — GitHub's desktop site can't launch UPI apps</sub>
 
 </div>
 
